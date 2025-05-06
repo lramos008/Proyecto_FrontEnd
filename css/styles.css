@@ -1,0 +1,28 @@
+p {
+    color: #CD5C5C;   /*Indian Red*/
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:rgba(133, 193, 233, 1);
+}
+
+h3{
+    text-align: left;
+    text-decoration: underline;
+    color: green;
+}  
+
+.enlaces{
+    text-align: left;
+    text-decoration: dotted;
+    color: blueviolet;
+}
+
+ul{
+    list-style:circle;
+}
